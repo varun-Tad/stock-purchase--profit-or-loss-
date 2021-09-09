@@ -1,0 +1,46 @@
+body{
+    font-family: sans-serif;
+    text-align:center;
+    background-color: #FEF3C7;
+    color:#92400E;
+
+}
+
+
+label{
+    display:block;
+    padding-bottom: 1rem;
+    font-weight: 800;
+}
+
+
+#initial-price{
+   margin-left:50px;
+}
+
+#current-price{
+
+    margin-left: 30px;
+
+}
+
+
+#submit-btn{
+    margin-top: 50px;
+    background-color: #92400E;
+    color:#FEF3C7;
+    padding:10px;
+    border-radius: 0.5rem;
+    font-weight: 800;
+}
+
+#submit-btn:hover{
+    border: 3px solid #92400E;
+}
+
+
+#output-box{
+    font-weight: 800;
+    margin-top: 50px;
+
+}
